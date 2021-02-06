@@ -1,0 +1,12 @@
+{
+	"servers": ["https://raw.githubusercontent.com/Arno736/tera-war-stance-skills-options-change/master/"],
+	"supportUrl": "https://github.com/Arno736/tera-war-stance-skills-options-change/issues",
+	"name": "war-stance-skills-options-change",
+	"author": "Arno736",
+	"description": "Automatically change skills options when change war stance",
+	"version": "1.0",
+	"options": {
+		"niceName": "War Stance Skills Options Change",
+		"guiName": "War Stance Skills Options Change"
+	}
+}
